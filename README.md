@@ -78,7 +78,7 @@ Meta-skill that guides you through creating well-structured, modularized Claude 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-ios-skills.git
+git clone https://github.com/rshankras/claude-code-ios-skills.git
 ```
 
 2. Copy the skills to your project's `.claude/skills/` directory:
@@ -229,14 +229,6 @@ Future skills and improvements:
 - [Claude Code Documentation](https://docs.claude.com/claude-code)
 - [Claude Code Skills Guide](https://docs.claude.com/claude-code/skills)
 
-## 💡 Examples
-
-See the [examples](examples/) directory for:
-- Sample skill output
-- Real-world use cases
-- Before/after code reviews
-- Skill creation examples
-
 ## ⭐ Show Your Support
 
 If you find these skills useful, please consider:
@@ -249,8 +241,7 @@ If you find these skills useful, please consider:
 
 **Ravishankar**
 
-- GitHub: [@YOUR_GITHUB_USERNAME]
-- Project: [ExpenseSplit](https://apps.apple.com/app/id1041478586)
+- GitHub: [@rshankras]
 
 ## 🙏 Acknowledgments
 
